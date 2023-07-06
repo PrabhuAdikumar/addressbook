@@ -1,4 +1,4 @@
-Delete this line
+Delete this line for automation
 
 Addressbook Tutorial
 ====================
